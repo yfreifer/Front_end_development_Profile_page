@@ -40,6 +40,12 @@ a:hover {
   padding: 0;
 }
 
+
+.nav .tune {
+
+color: :yellow;
+
+}
 .nav .name {
     display: block;
     margin-right: auto;
@@ -88,6 +94,9 @@ header .profile-image:hover {
 .location {
   background-color: cornflowerblue;
   color: black;
+
+
+
 }
 .card {
   margin: 30px;
